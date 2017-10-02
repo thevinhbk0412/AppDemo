@@ -1,0 +1,9 @@
+{
+  "name": "LVTN",
+  "version": "1.0",
+  "description": "Web travel",
+  "main": "server.js",
+  "repository": "https://github.com/thevinhbk0412/AppDemo.git",
+  "author": "vinhnguyen <thevinhbk0412@gmail.com>",
+  "license": "MIT"
+}
